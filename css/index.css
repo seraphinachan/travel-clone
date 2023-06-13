@@ -1,0 +1,16 @@
+body {
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+.nav-item {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.container-fluid {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
